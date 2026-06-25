@@ -1,0 +1,5 @@
+-- Test de la boucle Repete - Exo02 Q2
+-- Dessine un carre de cote 100 en 4 repetitions
+
+Dessine;
+Repete 4 [ Avance 100 ; Droite 90 ].

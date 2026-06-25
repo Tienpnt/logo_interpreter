@@ -1,0 +1,12 @@
+-- Test des commentaires - Exo02 Q1
+-- On dessine un carre de cote 100
+
+Dessine;
+Avance 100;
+Gauche 90;
+Avance 100;
+Gauche 90;
+Avance 100;
+Gauche 90;
+Avance 100.
+-- fin du programme

@@ -1,0 +1,7 @@
+-- Test de l'arithmetique - Exo02 Q3
+-- On definit taille = 100, puis on dessine
+-- un carre avec ( :taille * 2 ) = 200
+
+Def taille 100;
+Dessine;
+Repete 4 [ Avance ( :taille * 2 ) ; Droite 90 ].
